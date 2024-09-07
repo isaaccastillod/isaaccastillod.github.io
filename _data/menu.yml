@@ -1,20 +1,19 @@
 entries:
-  - title: Example
+  - title: Some things about me:
     entries:
       - title: example 1
       - title: example 2
+      - title: I'm always looking for challenging and uncompromising creative endeavors, as well as energetic individuals to collaborate with. If you're interested in working together on a project or would just like to chat, feel free to reach out to me via any of the methods below.
   - title: Documentaries and Films
+    url: films
     entries:
       - title: <a href="https://youtu.be/u7QlCzIQPhY?si=jATYb9kiHgpgBo25">People's Park (2022)</a>
         url: https://youtu.be/u7QlCzIQPhY?si=jATYb9kiHgpgBo25
       - title: Mákĩra (202?) - The jungle is a cruel landscape dominated by a funereal silence, yet in its highly dynamic turns of life, its alien order which consumes everything, it attains a symphonic and majestic quality. While I finish editing the documentary, here are some pictures of the production and a rough snippet of what it will look like. 
-  - title: Short Films
-    entries:
       - title: <a href="https://youtu.be/NdT239QJGo4?si=A-Z7Vc72f-rKPbDj">Moscas (2021)</a> - Many of my film ideas come from obsessions with particular images or states of mind, as a kid, I was particularly disturbed by images of flies.
         url: https://youtu.be/NdT239QJGo4?si=A-Z7Vc72f-rKPbDj
   - title: Contact
     entries:
-      - title: I'm always looking for challenging and uncompromising creative endeavors, as well as energetic individuals to collaborate with. If you're interested in working together on a project or would just like to chat, feel free to reach out to me via any of the methods below.
       - title: Email isaac.castillo (at) berkeley.edu
       - title: Twitter <a href="https://x.com/icastillodgrcia">icastillodgrcia</a>
       - title: LinkedIn <a href="https://www.linkedin.com/in/isaaccastillod/">isaaccastillod</a>
