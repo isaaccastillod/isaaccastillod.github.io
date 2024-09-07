@@ -1,11 +1,8 @@
 entries:
-  - title: Some things about me
-    entries:
-      - title: example 1
-      - title: example 2
-      - title: I'm always looking for challenging and uncompromising creative endeavors, as well as energetic individuals to collaborate with. If you're interested in working together on a project or would just like to chat, feel free to reach out to me via any of the methods below.
   - title: Documentaries and Films
     url: films
+  - title: Technical Projects
+    url: projects
   - title: Contact
     entries:
       - title: Email isaac.castillo (at) berkeley.edu
