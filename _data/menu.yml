@@ -3,7 +3,7 @@ entries:
     entries:
       - title: example 1
       - title: example 2
-  - title: Documentaries
+  - title: Documentaries and Films
     entries:
       - title: <a href="https://youtu.be/u7QlCzIQPhY?si=jATYb9kiHgpgBo25">People's Park (2022)</a>
         url: https://youtu.be/u7QlCzIQPhY?si=jATYb9kiHgpgBo25
@@ -12,4 +12,14 @@ entries:
     entries:
       - title: <a href="https://youtu.be/NdT239QJGo4?si=A-Z7Vc72f-rKPbDj">Moscas (2021)</a> - Many of my film ideas come from obsessions with particular images or states of mind, as a kid, I was particularly disturbed by images of flies.
         url: https://youtu.be/NdT239QJGo4?si=A-Z7Vc72f-rKPbDj
-  - title: Contact information
+  - title: Contact
+    entries:
+      - title: I'm always looking for challenging and uncompromising creative endeavors, as well as energetic individuals to collaborate with. If you're interested in working together on a project or would just like to chat, feel free to reach out to me via any of the methods below.
+
+      - title: Emai: isaac.castillo (at) berkeley.edu
+      - title: Twitter: <a href="https://x.com/icastillodgrcia">icastillodgrcia</a>
+        url: https://x.com/icastillodgrcia
+      - title: LinkedIn:<a href="https://www.linkedin.com/in/isaaccastillod/">isaaccastillod</a>
+        url: https://www.linkedin.com/in/isaaccastillod/
+      - title: GitHub: <a href="https://github.com/isaaccastillod">isaaccastillod</a>
+        url: https://github.com/isaaccastillod
