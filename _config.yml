@@ -34,6 +34,8 @@ plugins:
 
 theme_config:
   appearance: "dark"
+  back_home_text: "back"
+  date_format: "%Y-%m-%d"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
