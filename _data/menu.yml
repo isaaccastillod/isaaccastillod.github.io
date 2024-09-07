@@ -3,9 +3,3 @@ entries:
     url: films
   - title: Technical Projects
     url: projects
-  - title: Contact
-    entries:
-      - title: Email isaac.castillo (at) berkeley.edu
-      - title: Twitter <a href="https://x.com/icastillodgrcia">icastillodgrcia</a>
-      - title: LinkedIn <a href="https://www.linkedin.com/in/isaaccastillod/">isaaccastillod</a>
-      - title: GitHub <a href="https://github.com/isaaccastillod">isaaccastillod</a>
