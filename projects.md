@@ -4,7 +4,7 @@ title: Technical Projects
 ---
 ## <a href="https://docs.google.com/presentation/d/1P_JbUmXlIsn-3sVCIA2Nn8m0Jlk0tzEKJ4RPezR2HuA/edit?usp=sharing">Topham: GPU Warp Scheduling for ML</a>
 ### C++, OpenCL, NumPy, PyTorch
-Wrote library for core functions of BERT to test improvements for Vortex scheduler.
+Wrote <a href="https://github.com/isaaccastillod/bert-opencl">library</a> for core functions of BERT to test improvements for Vortex scheduler.
 
 ## PIPELINED RISC-V CPU ON FPGA
 ### Verilog and Xilinx Vivado
